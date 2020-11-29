@@ -37,3 +37,9 @@ div li button {
   margin: 0 15px;
   background: #ca4949;
 }
+
+#root {
+  width: 30%;
+  margin: auto;
+  padding-top: 10%;
+}
